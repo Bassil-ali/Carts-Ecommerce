@@ -1,0 +1,6 @@
+[20-May-2021 00:33:22 UTC] PHP Fatal error:  Cannot use App\Mail\EmailVerify as EmailVerify because the name is already in use in /home/fekrfjvy/Mjal-Store.mjalstore.com/app/Http/Controllers/Home/AuthController.php on line 7
+[20-May-2021 00:34:04 UTC] PHP Fatal error:  Cannot use App\Mail\EmailVerify as EmailVerify because the name is already in use in /home/fekrfjvy/Mjal-Store.mjalstore.com/app/Http/Controllers/Home/AuthController.php on line 7
+
+118bd618-d6ad-494a-91b3-360e8a6c0a91
+
+10303a57fa65071475cf803f1ae97580ecfcb8255fab8f50683a010d7b05eafe
