@@ -19,15 +19,9 @@ class RedirectIfAuthenticated
     {
 
         if (Auth::guard($guard)->check()) {
-<<<<<<< HEAD
-            if ($guard == 'cliants') {
-                return "cliants";
-            }
 
-            return "users";
-=======
             return redirect('/');
->>>>>>> 3e98f0127e3653c6328c7b663312ee536f6c9346
+
         }
 
         return $next($request);

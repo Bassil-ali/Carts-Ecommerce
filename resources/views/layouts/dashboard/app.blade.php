@@ -74,9 +74,9 @@
 </script>
 
 
-@include('notify::messages')
+{{-- @include('notify::messages')
 <x:notify-messages />
-@notifyJs
+@notifyJs --}}
 <script src="{{ asset('dashboard_files/noty.js') }}" defer></script>
     <script type="text/javascript">
 

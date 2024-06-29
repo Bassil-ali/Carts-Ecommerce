@@ -21,7 +21,7 @@
         "laravel/ui": "^3.4",
         "maatwebsite/excel": "^3.1",
         "mcamara/laravel-localization": "^1.6",
-        "mckenziearts/laravel-notify": "^2.0",
+        "mckenziearts/laravel-notify": "^2.5",
         "nexmo/client": "^2.4",
         "nexmo/laravel": "^2.4",
         "santigarcor/laratrust": "^6.3",
