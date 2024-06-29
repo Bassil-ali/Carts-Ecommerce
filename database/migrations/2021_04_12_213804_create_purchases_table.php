@@ -24,7 +24,7 @@ class CreatePurchasesTable extends Migration
             $table->longText('cart_text');
             $table->string('date');
             $table->string('rate');
-            $table->string('date');
+            
             $table->string('balance');
             $table->string('balance_type');
             $table->text('status')->default('0');

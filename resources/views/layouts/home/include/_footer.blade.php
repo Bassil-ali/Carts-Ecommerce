@@ -41,7 +41,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-md-5">
+                        {{-- <div class="col-md-5">
                             <div class="payment">
                                 <p>@lang('home.payment_method')</p>
                                 
@@ -52,7 +52,7 @@
                                     @endforeach
                                 </ul>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
